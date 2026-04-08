@@ -1,10 +1,10 @@
-#Brucejack Gold Mine – Cost & Valuation Model (2026)
+# Brucejack Gold Mine – Cost & Valuation Model (2026)
 
 A full mining‑economics model of the Brucejack gold mine, built to demonstrate integrated technical–financial analysis. This project combines geological understanding with valuation, cost modeling, and sensitivity analysis.
 
 ---
 
-#Executive Summary
+# Executive Summary
 
 Brucejack is a high‑grade underground gold mine operating at 1.387 Mtpa with a head grade of 7.5 g/t, producing ~330–340 koz Au annually. Under a 2026 base case gold price of **$4,500/oz**, the model returns a pre‑tax **NPV of \$8.23B** (5% discount rate assumed).
 
@@ -12,7 +12,7 @@ A fully loaded **AISC of \$1,108/oz** places Brucejack in a competitive cost pos
 
 ---
 
-#Key Assumptions
+# Key Assumptions
 
 - **Gold price:** $4,500/oz (sensitized $3,500–$5,500/oz)  
 - **Mine life:** 10 years  
@@ -25,7 +25,7 @@ A fully loaded **AISC of \$1,108/oz** places Brucejack in a competitive cost pos
 
 ---
 
-#Model Outputs
+# Model Outputs
 
 - **Base case NPV:** \$8,231,587,406  
 - **AISC:** \$1,108/oz  
@@ -35,7 +35,7 @@ A fully loaded **AISC of \$1,108/oz** places Brucejack in a competitive cost pos
 
 ---
 
-#Included Charts
+# Included Charts
 
 - **AISC Waterfall Chart** – LOM per‑ounce cost structure  
 - **NPV vs Gold Price Curve** – valuation sensitivity across 2026 gold price range  
@@ -45,7 +45,7 @@ Charts are provided as PNG files in the `/charts` directory.
 
 ---
 
-#Purpose of This Project
+# Purpose of This Project
 
 This model was developed to demonstrate the ability to:
 
@@ -59,7 +59,7 @@ The project reflects the type of integrated technical–economic work performed 
 
 ---
 
-#Repository Structure
+# Repository Structure
 
 /model Brucejack_Model.xlsx
 /charts aisc_waterfall.png npv_vs_gold_price.png tornado_sensitivity.png
@@ -67,7 +67,7 @@ README.md
 
 ---
 
-#Notes & Limitations
+# Notes & Limitations
 
 - Stylized model for demonstration purposes  
 - Taxes, working capital, and detailed dilution/reconciliation not included  
@@ -76,7 +76,7 @@ README.md
 
 ---
 
-#About the Author
+# About the Author
 
 Samuel Metteer (M.Sc. P.Geo)
 Experience in mine operations, grade control, and technical analysis. Interested in transitioning into mining economics and market‑facing roles, with a focus on asset valuation, cost modeling, and investment‑relevant insights.
