@@ -78,6 +78,5 @@ README.md
 
 # About the Author
 
-Samuel Metteer (M.Sc. P.Geo)
-Experience in mine operations, grade control, and technical analysis. Interested in transitioning into mining economics and market‑facing roles, with a focus on asset valuation, cost modeling, and investment‑relevant insights.
+Samuel Metteer (M.Sc. P.Geo). Experience in mine operations, grade control, and technical analysis. Interested in transitioning into mining economics and market‑facing roles, with a focus on asset valuation, cost modeling, and investment‑relevant insights.
 
